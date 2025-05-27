@@ -19,7 +19,7 @@ Este projeto tem como finalidade monitorar falhas de energia em ambientes críti
 ## ▶️ Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/GS-CSharp.git
+   https://github.com/BernardoPRocha/GS-CSharp.git
    ```
 2. Navegue até a pasta `src/`.
 3. Abra o projeto no Visual Studio ou VS Code.
