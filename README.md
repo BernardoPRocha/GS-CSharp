@@ -41,6 +41,8 @@ GS-CSharp/
 
 ## 👨‍💻 Desenvolvedor
 - Bernardo Pinto Rocha - RM 99209
+- Levy Nascimento Junior - RM98655
+- Gabriel Diegues Figueiredo Rocha - RM550788
 
 ## 📽️ Vídeo Pitch
 [Link para o vídeo no YouTube (Privado)](https://youtube.com/seu_video_aqui)
